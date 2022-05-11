@@ -1,3 +1,5 @@
 Hello World!
 
 Bom dia para o Mundo!
+
+Привет Мир!
